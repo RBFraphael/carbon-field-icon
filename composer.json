@@ -1,9 +1,9 @@
 {
-    "name": "htmlburger/carbon-field-icon",
-    "description": "Carbon Fields extension, that adds a Icon field type.",
+    "name": "rbfraphael/carbon-field-icon",
+    "description": "Carbon Fields extension, that adds a Icon field type. Updated to FontAwesome 6.1.2",
     "keywords": ["wordpress", "carbon-field", "carbon-field-icon"],
     "type": "library",
-    "license": "GPL-2.0+",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "htmlBurger",
@@ -19,6 +19,12 @@
         {
             "name": "Atanas Angelov",
             "email": "atanas.angelov.dev@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "RBFraphael",
+            "email": "rbfraphael@gmail.com",
+            "homepage": "https://github.com/rbfraphael",
             "role": "Developer"
         }
     ],
