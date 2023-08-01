@@ -13,4 +13,6 @@ foreach($icons as $icon => $data){
     ];
 }
 
-echo json_encode($json);
+$output = fopen("../data/fontawesome.json", "a+");
+fwrite($output, json_encode($json));
+fclose($output);

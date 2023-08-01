@@ -3,7 +3,7 @@
 namespace Carbon_Field_Icon\Providers;
 
 class Font_Awesome_Provider implements Icon_Provider_Interface {
-	const VERSION = '6.1.2';
+	const VERSION = '6.4.0';
 
 	/**
 	 * Enqueue assets in the backend.
